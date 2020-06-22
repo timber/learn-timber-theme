@@ -1,0 +1,14 @@
+{
+  "name": "timber/getting-started-theme",
+  "type": "wordpress-theme",
+  "description": "A minimal theme that serves as an entry point for learning about Timber.",
+  "require": {
+    "timber/timber": "^1.16"
+  },
+  "authors": [
+    {
+      "name": "Lukas Gaechter",
+      "email": "lukas.gaechter@mind.ch"
+    }
+  ]
+}
