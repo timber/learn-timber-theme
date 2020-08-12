@@ -10,5 +10,8 @@
       "name": "Lukas Gaechter",
       "email": "lukas.gaechter@mind.ch"
     }
-  ]
+  ],
+  "replace": {
+    "timber/getting-started-theme": "^1.0.0"
+  }
 }
