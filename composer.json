@@ -3,7 +3,7 @@
   "type": "wordpress-theme",
   "description": "A minimal theme that serves as an entry point for learning about Timber.",
   "require": {
-    "timber/timber": "^1.16"
+    "timber/timber": "^2.0"
   },
   "authors": [
     {
